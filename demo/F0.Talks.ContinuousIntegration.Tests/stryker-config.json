@@ -1,0 +1,15 @@
+{
+  "stryker-config":
+  {
+    "test-runner": "vstest",
+    "reporters": [
+      "cleartext",
+      "html"
+    ],
+    "log-level": "debug",
+    "project-file": "F0.Talks.ContinuousIntegration.csproj",
+    "threshold-high": 100,
+    "threshold-low": 99,
+    "threshold-break": 98
+  }
+}

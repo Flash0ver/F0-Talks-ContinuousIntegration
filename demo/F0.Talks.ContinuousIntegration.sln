@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "F0.Talks.ContinuousIntegration", "F0.Talks.ContinuousIntegration\F0.Talks.ContinuousIntegration.csproj", "{46F54EB3-E571-4509-80F0-B407EA9683EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "F0.Talks.ContinuousIntegration.Tests", "F0.Talks.ContinuousIntegration.Tests\F0.Talks.ContinuousIntegration.Tests.csproj", "{0090903D-C627-4B7E-82F3-6394927E5971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46F54EB3-E571-4509-80F0-B407EA9683EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46F54EB3-E571-4509-80F0-B407EA9683EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46F54EB3-E571-4509-80F0-B407EA9683EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46F54EB3-E571-4509-80F0-B407EA9683EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0090903D-C627-4B7E-82F3-6394927E5971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0090903D-C627-4B7E-82F3-6394927E5971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0090903D-C627-4B7E-82F3-6394927E5971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0090903D-C627-4B7E-82F3-6394927E5971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E2BBE4A-8EEB-4DD8-92A1-192F342B9B3C}
+	EndGlobalSection
+EndGlobal

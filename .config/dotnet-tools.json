@@ -1,0 +1,30 @@
+{
+  "version": 1,
+  "isRoot": true,
+  "tools": {
+    "powershell": {
+      "version": "7.0.0",
+      "commands": [
+        "pwsh"
+      ]
+    },
+    "dotnet-try": {
+      "version": "1.0.19553.4",
+      "commands": [
+        "dotnet-try"
+      ]
+    },
+    "dotnet-reportgenerator-globaltool": {
+      "version": "4.5.3",
+      "commands": [
+        "reportgenerator"
+      ]
+    },
+    "dotnet-stryker": {
+      "version": "0.17.1",
+      "commands": [
+        "dotnet-stryker"
+      ]
+    }
+  }
+}
