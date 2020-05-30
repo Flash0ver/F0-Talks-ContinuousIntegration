@@ -9,7 +9,6 @@
 * C# since 2012
 * .NET since 2013
 * pipelines/workflows since 2019
-* Senior Developer @ [Quaternity Services AT GmbH](http://www.quaternity.ch/)
 
 #### Alter egos
 * Twitter: [@0x_F0](https://twitter.com/0x_F0)
