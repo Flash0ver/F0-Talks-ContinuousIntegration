@@ -8,8 +8,8 @@
         "pwsh"
       ]
     },
-    "dotnet-try": {
-      "version": "1.0.19553.4",
+    "microsoft.dotnet-try": {
+      "version": "1.0.20268.1",
       "commands": [
         "dotnet-try"
       ]
